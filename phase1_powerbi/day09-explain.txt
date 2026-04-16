@@ -1,0 +1,3 @@
+The total sales represent the overall revenue from all departments,
+while the electronics sales show revenue generated only from the Electronics category,
+which is a part of the total filtered by department.
