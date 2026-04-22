@@ -1,0 +1,3 @@
+1. Removed unnecessary visuals to reduce clutter and improve clarity.
+2. Added clear and meaningful titles to each visual for better understanding.
+3. Aligned visuals properly and added whitespace to create a clean and organized layout.

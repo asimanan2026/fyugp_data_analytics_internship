@@ -1,0 +1,3 @@
+This dashboard shows sales performance across different categories and regions.
+It highlights which products generate the highest sales and how sales change over time.
+The slicer allows users to filter data by region for deeper analysis. Overall, the dashboard helps in understanding business performance and identifying key trends.
